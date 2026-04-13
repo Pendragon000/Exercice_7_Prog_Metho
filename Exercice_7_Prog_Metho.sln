@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37012.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice_7_Prog_Metho", "Exercice_7_Prog_Metho\Exercice_7_Prog_Metho.csproj", "{58C2C8BD-A2CB-4F6A-97BE-65D74EF60F92}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Éléments de solution", "Éléments de solution", "{9C8CB701-102D-CF49-A3E0-89AC09D42C2C}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Downloads\exercice7\exercice7\exercice7\AfterDateExpression.cs = ..\..\..\Downloads\exercice7\exercice7\exercice7\AfterDateExpression.cs
+		..\..\..\Downloads\exercice7\exercice7\exercice7\BeforeDateExpression.cs = ..\..\..\Downloads\exercice7\exercice7\exercice7\BeforeDateExpression.cs
+		..\..\..\Downloads\exercice7\exercice7\exercice7\Courriel.cs = ..\..\..\Downloads\exercice7\exercice7\exercice7\Courriel.cs
+		..\..\..\Downloads\exercice7\exercice7\exercice7\ExpressionBase.cs = ..\..\..\Downloads\exercice7\exercice7\exercice7\ExpressionBase.cs
+		..\..\..\Downloads\exercice7\exercice7\exercice7\Filtre.cs = ..\..\..\Downloads\exercice7\exercice7\exercice7\Filtre.cs
+		..\..\..\Downloads\exercice7\exercice7\exercice7\HasExpression.cs = ..\..\..\Downloads\exercice7\exercice7\exercice7\HasExpression.cs
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestExercice_7_Prog_Metho", "TestExercice_7_Prog_Metho\TestExercice_7_Prog_Metho.csproj", "{F86EF53C-7C5C-43AF-BEFE-C586D7BA5496}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58C2C8BD-A2CB-4F6A-97BE-65D74EF60F92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58C2C8BD-A2CB-4F6A-97BE-65D74EF60F92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58C2C8BD-A2CB-4F6A-97BE-65D74EF60F92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58C2C8BD-A2CB-4F6A-97BE-65D74EF60F92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F86EF53C-7C5C-43AF-BEFE-C586D7BA5496}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F86EF53C-7C5C-43AF-BEFE-C586D7BA5496}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F86EF53C-7C5C-43AF-BEFE-C586D7BA5496}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F86EF53C-7C5C-43AF-BEFE-C586D7BA5496}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC4A929C-04C4-40C0-9CF0-EB0A1BA1C44F}
+	EndGlobalSection
+EndGlobal
