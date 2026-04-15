@@ -1,6 +1,5 @@
 ﻿
 using Exercice_7_Lib;
-using Microsoft.VisualStudio.TestPlatform.TestHost;
 
 namespace TestExercice_7_Prog_Metho
 {

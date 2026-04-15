@@ -13,7 +13,9 @@
     <configurations />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a543668-a763-4971-b62e-f659184b1754" name="Changes" comment="" />
+    <list default="true" id="4a543668-a763-4971-b62e-f659184b1754" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/TestExercice_7_Prog_Metho/Test.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TestExercice_7_Prog_Metho/Test.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -102,7 +104,7 @@
       <workItem from="1776289256098" duration="454000" />
       <workItem from="1776289735244" duration="105000" />
       <workItem from="1776289867746" duration="587000" />
-      <workItem from="1776291340683" duration="667000" />
+      <workItem from="1776291340683" duration="1352000" />
     </task>
     <task id="LOCAL-00001" summary="rider settings">
       <option name="closed" value="true" />
@@ -136,7 +138,15 @@
       <option name="project" value="LOCAL" />
       <updated>1776291796221</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Changed test structure to ignore auto generated file (All tests pass with full coverage)">
+      <option name="closed" value="true" />
+      <created>1776292055441</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1776292055441</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -156,20 +166,13 @@
         <path>
           <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
           <item name="Total 100% 0/231" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
-          <item name="TestExercice_7_Prog_Metho 100% 0/102" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="Exercice_7_Lib 100% 0/129" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
         </path>
         <path>
           <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
           <item name="Total 100% 0/231" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
-          <item name="TestExercice_7_Prog_Metho 100% 0/102" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
-          <item name="TestExercice_7_Prog_Metho 100% 0/102" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
-        </path>
-        <path>
-          <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
-          <item name="Total 100% 0/231" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
-          <item name="TestExercice_7_Prog_Metho 100% 0/102" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
-          <item name="TestExercice_7_Prog_Metho 100% 0/102" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
-          <item name="Test 100% 0/102" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="Exercice_7_Lib 100% 0/129" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="Exercice_7_Lib 100% 0/129" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
         </path>
       </expand>
       <select />
@@ -193,7 +196,8 @@
     <MESSAGE value="rider settings" />
     <MESSAGE value="Changed project structure console project to Class library. All tests pass with full coverage" />
     <MESSAGE value="Removed unneeded console project." />
-    <option name="LAST_COMMIT_MESSAGE" value="Removed unneeded console project." />
+    <MESSAGE value="Changed test structure to ignore auto generated file (All tests pass with full coverage)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed test structure to ignore auto generated file (All tests pass with full coverage)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
