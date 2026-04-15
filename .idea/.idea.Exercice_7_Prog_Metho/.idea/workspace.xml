@@ -13,21 +13,7 @@
     <configurations />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a543668-a763-4971-b62e-f659184b1754" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Exercice_7_Prog_Metho/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Exercice_7_Prog_Metho/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercice_7_Prog_Metho.sln" beforeDir="false" afterPath="$PROJECT_DIR$/Exercice_7_Prog_Metho.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercice_7_Prog_Metho/AfterDateExpression.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Exercice_7_Lib/AfterDateExpression.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercice_7_Prog_Metho/AndExpression.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Exercice_7_Lib/AndExpression.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercice_7_Prog_Metho/BeforeDateExpression.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Exercice_7_Lib/BeforeDateExpression.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercice_7_Prog_Metho/ContenuExpression.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Exercice_7_Lib/ContenuExpression.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercice_7_Prog_Metho/Courriel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Exercice_7_Lib/Courriel.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercice_7_Prog_Metho/ExpressionBase.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Exercice_7_Lib/ExpressionBase.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercice_7_Prog_Metho/Filtre.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Exercice_7_Lib/Filtre.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercice_7_Prog_Metho/HasExpression.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Exercice_7_Lib/HasExpression.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercice_7_Prog_Metho/OrExpression.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Exercice_7_Lib/OrExpression.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestExercice_7_Prog_Metho/Test.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TestExercice_7_Prog_Metho/Test.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestExercice_7_Prog_Metho/TestExercice_7_Prog_Metho.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/TestExercice_7_Prog_Metho/TestExercice_7_Prog_Metho.csproj" afterDir="false" />
-    </list>
+    <list default="true" id="4a543668-a763-4971-b62e-f659184b1754" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,6 +34,10 @@
     &quot;accountId&quot;: &quot;a1365591-1398-422e-9ff3-a957debe7843&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$USER_HOME$/.nuget/packages/microsoft.net.test.sdk/17.12.0/build/netcoreapp3.1/Microsoft.NET.Test.Sdk.Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Exercice_7_Prog_Metho/Program.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7,
@@ -112,7 +102,7 @@
       <workItem from="1776289256098" duration="454000" />
       <workItem from="1776289735244" duration="105000" />
       <workItem from="1776289867746" duration="587000" />
-      <workItem from="1776291340683" duration="351000" />
+      <workItem from="1776291340683" duration="667000" />
     </task>
     <task id="LOCAL-00001" summary="rider settings">
       <option name="closed" value="true" />
@@ -122,7 +112,31 @@
       <option name="project" value="LOCAL" />
       <updated>1776289886718</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Changed project structure console project to Class library. All tests pass with full coverage">
+      <option name="closed" value="true" />
+      <created>1776291757980</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1776291757980</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Changed project structure console project to Class library. All tests pass with full coverage">
+      <option name="closed" value="true" />
+      <created>1776291764388</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1776291764388</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Removed unneeded console project.">
+      <option name="closed" value="true" />
+      <created>1776291796221</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1776291796221</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,48 +146,30 @@
     <option name="coveragePercentColumnWidth" value="150" />
     <option name="sortOrder" value="DESCENDING" />
     <option name="sortedColumn" value="1" />
-    <option name="symbolColumnWidth" value="311" />
+    <option name="symbolColumnWidth" value="436" />
     <coverage-tree-state>
       <expand>
         <path>
           <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
-          <item name="Total 98% 4/235" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="Total 100% 0/231" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
         </path>
         <path>
           <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
-          <item name="Total 98% 4/235" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
-          <item name="Exercice_7_Prog_Metho 98% 2/131" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="Total 100% 0/231" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="TestExercice_7_Prog_Metho 100% 0/102" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
         </path>
         <path>
           <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
-          <item name="Total 98% 4/235" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
-          <item name="Exercice_7_Prog_Metho 98% 2/131" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
-          <item name="Exercice_7_Prog_Metho 98% 2/131" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="Total 100% 0/231" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="TestExercice_7_Prog_Metho 100% 0/102" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="TestExercice_7_Prog_Metho 100% 0/102" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
         </path>
         <path>
           <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
-          <item name="Total 98% 4/235" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
-          <item name="Exercice_7_Prog_Metho 98% 2/131" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
-          <item name="Exercice_7_Prog_Metho 98% 2/131" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
-          <item name="Filtre 100% 0/71" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
-        </path>
-        <path>
-          <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
-          <item name="Total 98% 4/235" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
-          <item name="Exercice_7_Prog_Metho 98% 2/131" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
-          <item name="Exercice_7_Prog_Metho 98% 2/131" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
-          <item name="Program 0% 2/2" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
-        </path>
-        <path>
-          <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
-          <item name="Total 98% 4/235" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
-          <item name="TestExercice_7_Prog_Metho 98% 2/104" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
-        </path>
-        <path>
-          <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
-          <item name="Total 98% 4/235" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
-          <item name="TestExercice_7_Prog_Metho 98% 2/104" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
-          <item name="AutoGeneratedProgram 0% 2/2" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="Total 100% 0/231" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="TestExercice_7_Prog_Metho 100% 0/102" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="TestExercice_7_Prog_Metho 100% 0/102" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="Test 100% 0/102" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
         </path>
       </expand>
       <select />
@@ -195,7 +191,9 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="rider settings" />
-    <option name="LAST_COMMIT_MESSAGE" value="rider settings" />
+    <MESSAGE value="Changed project structure console project to Class library. All tests pass with full coverage" />
+    <MESSAGE value="Removed unneeded console project." />
+    <option name="LAST_COMMIT_MESSAGE" value="Removed unneeded console project." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
