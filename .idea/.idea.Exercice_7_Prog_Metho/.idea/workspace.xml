@@ -14,7 +14,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a543668-a763-4971-b62e-f659184b1754" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../CEGEP/CSI-CSTJEAN/Flux-Controle_02/autorop/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/../CEGEP/CSI-CSTJEAN/Flux-Controle_02/autorop/setup.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercice_7_Prog_Metho/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Exercice_7_Prog_Metho/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestExercice_7_Prog_Metho/Test.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TestExercice_7_Prog_Metho/Test.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +25,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Pendragon000"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Pendragon000/Exercice_7_Prog_Metho.git",
+    "accountId": "a1365591-1398-422e-9ff3-a957debe7843"
+  }
+}]]></component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7,
@@ -34,27 +47,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/isaak/Documents/Exercice_7_Prog_Metho&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "cidr.known.project.marker": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/home/isaak/Documents/Exercice_7_Prog_Metho",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager">
+}]]></component>
+  <component name="RunManager" selected=".NET Project.Exercice_7_Prog_Metho">
     <configuration name="Exercice_7_Prog_Metho" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -86,16 +100,79 @@
       <updated>1776289254886</updated>
       <workItem from="1776289256098" duration="454000" />
       <workItem from="1776289735244" duration="105000" />
+      <workItem from="1776289867746" duration="587000" />
     </task>
+    <task id="LOCAL-00001" summary="rider settings">
+      <option name="closed" value="true" />
+      <created>1776289886718</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1776289886718</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnitTestsCoverage.Settings">
+    <option name="coveragePercentColumnWidth" value="150" />
+    <option name="sortOrder" value="DESCENDING" />
+    <option name="sortedColumn" value="1" />
+    <option name="symbolColumnWidth" value="311" />
+    <coverage-tree-state>
+      <expand>
+        <path>
+          <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
+          <item name="Total 98% 4/235" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+        </path>
+        <path>
+          <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
+          <item name="Total 98% 4/235" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="Exercice_7_Prog_Metho 98% 2/131" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+        </path>
+        <path>
+          <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
+          <item name="Total 98% 4/235" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="Exercice_7_Prog_Metho 98% 2/131" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="Exercice_7_Prog_Metho 98% 2/131" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+        </path>
+        <path>
+          <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
+          <item name="Total 98% 4/235" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="Exercice_7_Prog_Metho 98% 2/131" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="Exercice_7_Prog_Metho 98% 2/131" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="Filtre 100% 0/71" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+        </path>
+        <path>
+          <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
+          <item name="Total 98% 4/235" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="Exercice_7_Prog_Metho 98% 2/131" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="Exercice_7_Prog_Metho 98% 2/131" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="Program 0% 2/2" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+        </path>
+        <path>
+          <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
+          <item name="Total 98% 4/235" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="TestExercice_7_Prog_Metho 98% 2/104" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+        </path>
+        <path>
+          <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
+          <item name="Total 98% 4/235" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="TestExercice_7_Prog_Metho 98% 2/104" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="AutoGeneratedProgram 0% 2/2" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+        </path>
+      </expand>
+      <select />
+    </coverage-tree-state>
+  </component>
   <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="rider settings" />
+    <option name="LAST_COMMIT_MESSAGE" value="rider settings" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
