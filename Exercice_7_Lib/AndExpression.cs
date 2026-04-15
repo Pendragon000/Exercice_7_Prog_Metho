@@ -5,7 +5,7 @@ using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Exercice_7_Prog_Metho
+namespace Exercice_7_Lib
 {
     public class AndExpression : ExpressionBase
     {

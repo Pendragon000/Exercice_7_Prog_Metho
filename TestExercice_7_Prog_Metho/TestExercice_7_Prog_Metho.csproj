@@ -13,6 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Exercice_7_Lib\Exercice_7_Lib.csproj" />
     <ProjectReference Include="..\Exercice_7_Prog_Metho\Exercice_7_Prog_Metho.csproj" />
   </ItemGroup>
 
